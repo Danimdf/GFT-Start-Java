@@ -12,7 +12,6 @@ public class Main {
         int maxInt = 2147483647;
         int minInt = -2147483648;
 
-
         long maxLong = 9223372036854775807L;
         long minLong = -9223372036854775808L;
 
