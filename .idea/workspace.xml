@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Studying arithmetics operators">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GFT-Start-Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="deleting executor .class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Introduction-java-ecosystem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -70,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642071309277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Studying arithmetics operators">
+      <created>1642078422465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642078422465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deleting executor .class">
+      <created>1642078592315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642078592315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +94,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Studying data types in Java" />
     <MESSAGE value="delete empty folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete empty folder" />
+    <MESSAGE value="Studying arithmetics operators" />
+    <MESSAGE value="deleting executor .class" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleting executor .class" />
   </component>
 </project>
