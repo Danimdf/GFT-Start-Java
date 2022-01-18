@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="practical exercises 2 on methods in Java">
+    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="practical exercises 3 on methods in Java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642374267753</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="practical exercises 3 on methods in Java">
+      <created>1642531641906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642531641906</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +130,7 @@
     <MESSAGE value="Refactor name folders" />
     <MESSAGE value="practical exercises on methods in Java" />
     <MESSAGE value="practical exercises 2 on methods in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="practical exercises 2 on methods in Java" />
+    <MESSAGE value="practical exercises 3 on methods in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="practical exercises 3 on methods in Java" />
   </component>
 </project>
