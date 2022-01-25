@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="repetitive structures in Java" />
+    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="deleted past of Digital Bank">
+      <change beforePath="$PROJECT_DIR$/Banco-Digital-com-Java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643109015574</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Repo project of Digital Bank">
+      <created>1643110435741</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643110435741</updated>
+    </task>
+    <task id="LOCAL-00016" summary="deleted past of Digital Bank">
+      <created>1643110713807</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643110713807</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +192,9 @@
     <MESSAGE value="Studying object-oriented in Java" />
     <MESSAGE value="Polymorphism, Inheritance, Association and Interface in Java" />
     <MESSAGE value="repetitive structures in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="repetitive structures in Java" />
+    <MESSAGE value="Add Repo project of Digital Bank" />
+    <MESSAGE value="deleted past of Digital Bank" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted past of Digital Bank" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
