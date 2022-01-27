@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Studying Collections in Java">
+    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Studying Collections and Stream API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/Collections Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/ExemploList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/OrdenacaoList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/OrdenacaoList$ComparatorCor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/OrdenacaoList$ComparatorIdade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/OrdenacaoList$ComparatorNomeCorIdade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/OrdenacaoList$Gato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/list/OrdenacaoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/ComparatorNome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/ExemploMap$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/ExemploMap$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/ExemploMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/Livro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/OrdenacaoMap$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/OrdenacaoMap$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/map/OrdenacaoMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ComparatorAnoDeCriacaoENome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ComparatorIde.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ComparatorNomeAnoDeCriacaoIde.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ComparatorNomeGeneroTempoEpisodio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ExemploSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ExercicioSet1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/ExercicioSet2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/LinguagemFavorita.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/OrdenacaoSet$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/OrdenacaoSet$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/OrdenacaoSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/out/production/Collections Java/one/digitalinnovation/collection/set/Serie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/list/ExemploList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/list/Exercicio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/list/Exercicio2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/list/OrdenacaoList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/map/ExemploMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/map/OrdenacaoMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/set/ExemploSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/set/ExercicioSet1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/set/ExercicioSet2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections Java/src/one/digitalinnovation/collection/set/OrdenacaoSet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +24,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Collections Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -214,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643239319736</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Studying Collections and Stream API">
+      <created>1643286241857</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643286241857</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +209,8 @@
     <MESSAGE value="Add Repo project of Digital Bank" />
     <MESSAGE value="deleted past of Digital Bank" />
     <MESSAGE value="Studying Collections in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Studying Collections in Java" />
+    <MESSAGE value="Studying Collections and Stream API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Studying Collections and Stream API" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

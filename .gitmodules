@@ -1,3 +1,6 @@
 [submodule "Project"]
 	path = Project
 	url = https://github.com/Danimdf/Banco-Digital-com-Java.git
+[submodule "Desafio-POO"]
+	path = Desafio-POO
+	url = https://github.com/Danimdf/Desafio-Poo-Dio.git
