@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Studying Spring Boot" />
+    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Tests Unit Spring Boot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springBootTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643503243217</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Tests Unit Spring Boot">
+      <created>1643504261179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643504261179</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +242,8 @@
     <MESSAGE value="Studying HTTP protocol" />
     <MESSAGE value="Beans in Spring Boot" />
     <MESSAGE value="Studying Spring Boot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Studying Spring Boot" />
+    <MESSAGE value="Tests Unit Spring Boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests Unit Spring Boot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
