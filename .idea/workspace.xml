@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Studying HTTP protocol">
+    <list default="true" id="20d045c5-91a9-41dc-9db2-dec680e0b93e" name="Changes" comment="Beans in Spring Boot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23dek4d6qUerslAqSQXPL8aK2oR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +25,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InversaoDeControle" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643413566733</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Beans in Spring Boot">
+      <created>1643499972909</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1643499972909</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +226,8 @@
     <MESSAGE value="Studying Collections in Java" />
     <MESSAGE value="Studying Collections and Stream API" />
     <MESSAGE value="Studying HTTP protocol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Studying HTTP protocol" />
+    <MESSAGE value="Beans in Spring Boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beans in Spring Boot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
